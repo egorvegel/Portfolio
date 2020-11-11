@@ -187,6 +187,7 @@ a {
 .rowUp:hover::before, .rowUp:hover::after {
   background-color: #ffcf68;
 }
+
 .rowUp.rotate {
   transform: translateX(200px);
 }
