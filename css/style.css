@@ -521,6 +521,9 @@ a {
   .main__items .item {
     width: calc( 50% - 40px);
   }
+  .main__js__items .item {
+    width: calc( 50% - 40px);
+  }
 
   /* !advantages */
   .advantages__items .item {
@@ -547,6 +550,9 @@ a {
 @media screen and (max-width: 756px) {
   /* !Main */
   .main__items .item {
+    width: 100%;
+  }
+  .main__js__items .item {
     width: 100%;
   }
 
