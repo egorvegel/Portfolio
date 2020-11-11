@@ -188,7 +188,7 @@ a {
   background-color: #ffcf68;
 }
 .rowUp.rotate {
-  transform: translateX(100px);
+  transform: translateX(200px);
 }
 
 .email {
